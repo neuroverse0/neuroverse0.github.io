@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.div1, .div2, .div3 {
+    display: inline-block;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.div1 {
+    width: 20%;
+}
+
+.div2 {
+    width: 39%;
+}
+
+.div3 {
+    width: 40%;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+}
+
+nav button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+
+    flex-grow: 1;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
