@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
     <title>Neuroverse - Database de Heróis Autistas</title>
     <link rel="stylesheet" href="styles.css"> 
 </head>
 <body>
     <script src="script.js"></script>
     <div class="header">
-        <header>
-            <h1>Neuroverse</h1>
-            <p>Database de Heróis Autistas</p>
-        </header>
+        <img id="logo" src="images/logo.png">
     </div>
 
     <div class="content">
@@ -25,19 +26,19 @@
         </div>
     
         <div class="description">
-            <p>ID</p>
+            <p class="titulos">ID</p>
             <p id="id"></p>
-            <p>Origem</p>
+            <p class="titulos">Origem</p>
             <p id="origem"></p>
-            <p>Poder</p>
+            <p class="titulos">Poder</p>
             <p id="poder"></p>
-            <p>Arqui-Inimigo</p>
+            <p class="titulos">Arqui-Inimigo</p>
             <p id="inimigo"></p>
         </div>
     
-        <div class="image">
-            <img src="sinestesia.jpg" alt="Imagem de Sinestesia" id="image">
-            <h2 id="hero_name">Sinestesia</h2>
+        <div class="hero">
+            <img id="image" class="image">
+            <h2 id="hero_name"></h2>
         </div>
     </div>
 </body>

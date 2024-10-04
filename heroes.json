@@ -1,42 +1,42 @@
 [
     {
-        "nome": "Herói 1",
-        "imagem": "img.jpg",
+        "nome": "Escudo Sensorial",
+        "imagem": "images/Escudo Sensorial.png",
         "id": "1",
-        "origem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta velit. Nulla facilisi. Sed eu posuere nisi. In non suscipit lorem. Donec sed ornare nibh. Donec ultricies interdum ornare. Donec fringilla elementum lacinia. Pellentesque in tellus ut felis elementum iaculis et quis nunc. Nunc ut accumsan justo. Vivamus nec malesuada nisl. Nunc sollicitudin varius felis nec finibus. Maecenas erat odio, placerat vitae felis at, dictum interdum justo. Nulla facilisi. Ut varius sed ante sit amet condimentum. Morbi pharetra sem dolor, at pellentesque tellus viverra id. Donec suscipit consectetur sapien, nec suscipit risus feugiat sit amet. Duis condimentum, orci non.",
-        "poder": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tellus sit amet dolor aliquet, quis euismod justo condimentum. Mauris ipsum lacus, tempus non mi quis, ullamcorper condimentum quam. Suspendisse non imperdiet nisl. Aliquam id molestie nisi. Aenean vehicula tellus a maximus viverra. Maecenas ut fermentum ante, vitae rutrum risus.",
-        "inimigo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum massa cursus leo varius rhoncus in ac velit. Aenean dictum tempor massa, sed pellentesque nibh molestie sed. Pellentesque habitant morbi." 
+        "origem": "Sofia sempre foi sensível ao toque, ao som e à luz, frequentemente sentindo o ambiente de forma muito mais intensa que os outros. Durante um momento de sobrecarga sensorial, ela desenvolveu a capacidade de criar um campo de proteção que bloqueia estímulos excessivos, protegendo-a e a quem estiver próximo.",
+        "poder": "Pode criar um escudo sensorial ao seu redor que bloqueia estímulos externos, como sons altos, luzes fortes ou toques indesejados. Esse campo também pode ser usado para proteger outras pessoas de ataques físicos ou sensoriais.",
+        "inimigo": "Tempestade Sensorial, um vilão que amplifica todos os estímulos sensoriais ao redor, sobrecarregando as pessoas com sons, luzes e sensações intensas." 
     },
     {
-        "nome": "Herói 2",
-        "imagem": "img.jpg",
+        "nome": "Sequência Mestre",
+        "imagem": "images/Sequência Mestre.png",
         "id": "2",
-        "origem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta velit. Nulla facilisi. Sed eu posuere nisi. In non suscipit lorem. Donec sed ornare nibh. Donec ultricies interdum ornare. Donec fringilla elementum lacinia. Pellentesque in tellus ut felis elementum iaculis et quis nunc. Nunc ut accumsan justo. Vivamus nec malesuada nisl. Nunc sollicitudin varius felis nec finibus. Maecenas erat odio, placerat vitae felis at, dictum interdum justo. Nulla facilisi. Ut varius sed ante sit amet condimentum. Morbi pharetra sem dolor, at pellentesque tellus viverra id. Donec suscipit consectetur sapien, nec suscipit risus feugiat sit amet. Duis condimentum, orci non.",
-        "poder": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tellus sit amet dolor aliquet, quis euismod justo condimentum. Mauris ipsum lacus, tempus non mi quis, ullamcorper condimentum quam. Suspendisse non imperdiet nisl. Aliquam id molestie nisi. Aenean vehicula tellus a maximus viverra. Maecenas ut fermentum ante, vitae rutrum risus.",
-        "inimigo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum massa cursus leo varius rhoncus in ac velit. Aenean dictum tempor massa, sed pellentesque nibh molestie sed. Pellentesque habitant morbi." 
+        "origem": "Pedro sempre teve uma mente orientada para padrões, identificando sequências que os outros não percebiam. Quando criança, ele adorava quebra-cabeças e enigmas. Um dia, ao resolver um quebra-cabeça especialmente desafiador, ele ativou um poder latente em seu cérebro, permitindo-lhe prever e controlar padrões e sequências no mundo real.",
+        "poder": "Consegue ver e prever padrões em qualquer situação, desde movimentos físicos até dados e eventos futuros, permitindo-lhe manipular as probabilidades e se antecipar a ataques.",
+        "inimigo": "Caos, que cria situações de completa aleatoriedade, tornando impossível a previsão de padrões e eventos." 
     },
     {
-        "nome": "Herói 3",
-        "imagem": "img.jpg",
+        "nome": "Sinestesia",
+        "imagem": "images/Sinestesia.png",
         "id": "3",
-        "origem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta velit. Nulla facilisi. Sed eu posuere nisi. In non suscipit lorem. Donec sed ornare nibh. Donec ultricies interdum ornare. Donec fringilla elementum lacinia. Pellentesque in tellus ut felis elementum iaculis et quis nunc. Nunc ut accumsan justo. Vivamus nec malesuada nisl. Nunc sollicitudin varius felis nec finibus. Maecenas erat odio, placerat vitae felis at, dictum interdum justo. Nulla facilisi. Ut varius sed ante sit amet condimentum. Morbi pharetra sem dolor, at pellentesque tellus viverra id. Donec suscipit consectetur sapien, nec suscipit risus feugiat sit amet. Duis condimentum, orci non.",
-        "poder": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tellus sit amet dolor aliquet, quis euismod justo condimentum. Mauris ipsum lacus, tempus non mi quis, ullamcorper condimentum quam. Suspendisse non imperdiet nisl. Aliquam id molestie nisi. Aenean vehicula tellus a maximus viverra. Maecenas ut fermentum ante, vitae rutrum risus.",
-        "inimigo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum massa cursus leo varius rhoncus in ac velit. Aenean dictum tempor massa, sed pellentesque nibh molestie sed. Pellentesque habitant morbi." 
+        "origem": "Marina tinha uma forma única de perceber o mundo. Ela não só ouvia sons, mas também os via como cores vibrantes, e sentia cheiros como se fossem texturas. Um acidente com um experimento neurológico amplificou essas percepções, permitindo-lhe manipular os sentidos dos outros através de sua própria experiência sinestésica.",
+        "poder": "Consegue manipular os sentidos de quem está à sua volta, criando ilusões sensoriais ou intensificando certas percepções. Ela pode “mostrar” sons ou fazer pessoas “verem” cheiros e sons.",
+        "inimigo": "O Neutro, um vilão que pode bloquear ou dessensibilizar completamente as percepções sensoriais, neutralizando a sinestesia de Marina." 
     },
     {
-        "nome": "Herói 4",
-        "imagem": "img.jpg",
+        "nome": "Srta. Deadline",
+        "imagem": "images/Srta. Deadline.png",
         "id": "4",
-        "origem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta velit. Nulla facilisi. Sed eu posuere nisi. In non suscipit lorem. Donec sed ornare nibh. Donec ultricies interdum ornare. Donec fringilla elementum lacinia. Pellentesque in tellus ut felis elementum iaculis et quis nunc. Nunc ut accumsan justo. Vivamus nec malesuada nisl. Nunc sollicitudin varius felis nec finibus. Maecenas erat odio, placerat vitae felis at, dictum interdum justo. Nulla facilisi. Ut varius sed ante sit amet condimentum. Morbi pharetra sem dolor, at pellentesque tellus viverra id. Donec suscipit consectetur sapien, nec suscipit risus feugiat sit amet. Duis condimentum, orci non.",
-        "poder": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tellus sit amet dolor aliquet, quis euismod justo condimentum. Mauris ipsum lacus, tempus non mi quis, ullamcorper condimentum quam. Suspendisse non imperdiet nisl. Aliquam id molestie nisi. Aenean vehicula tellus a maximus viverra. Maecenas ut fermentum ante, vitae rutrum risus.",
-        "inimigo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum massa cursus leo varius rhoncus in ac velit. Aenean dictum tempor massa, sed pellentesque nibh molestie sed. Pellentesque habitant morbi." 
+        "origem": "Carol era uma gerente de projetos sempre sob pressão para cumprir prazos apertados. Depois de anos enfrentando o estresse do escritório, um acidente no elevador a transportou para uma dimensão temporal alternativa. Ao voltar, ela descobriu que agora podia manipular o tempo relacionado a prazos e cronogramas.",
+        "poder": "Pode acelerar ou desacelerar o tempo em torno de tarefas e projetos, permitindo que prazos sejam cumpridos de forma impossível.",
+        "inimigo": "Senhor Procrastinação, que pode criar campos de distração, tornando qualquer tarefa impossível de ser realizada no tempo esperado." 
     },
     {
-        "nome": "Herói 5",
-        "imagem": "img.jpg",
+        "nome": "PowerPointa",
+        "imagem": "images/PowerPointa.png",
         "id": "5",
-        "origem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta velit. Nulla facilisi. Sed eu posuere nisi. In non suscipit lorem. Donec sed ornare nibh. Donec ultricies interdum ornare. Donec fringilla elementum lacinia. Pellentesque in tellus ut felis elementum iaculis et quis nunc. Nunc ut accumsan justo. Vivamus nec malesuada nisl. Nunc sollicitudin varius felis nec finibus. Maecenas erat odio, placerat vitae felis at, dictum interdum justo. Nulla facilisi. Ut varius sed ante sit amet condimentum. Morbi pharetra sem dolor, at pellentesque tellus viverra id. Donec suscipit consectetur sapien, nec suscipit risus feugiat sit amet. Duis condimentum, orci non.",
-        "poder": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tellus sit amet dolor aliquet, quis euismod justo condimentum. Mauris ipsum lacus, tempus non mi quis, ullamcorper condimentum quam. Suspendisse non imperdiet nisl. Aliquam id molestie nisi. Aenean vehicula tellus a maximus viverra. Maecenas ut fermentum ante, vitae rutrum risus.",
-        "inimigo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum massa cursus leo varius rhoncus in ac velit. Aenean dictum tempor massa, sed pellentesque nibh molestie sed. Pellentesque habitant morbi." 
+        "origem": "Juliana era uma especialista em criar apresentações visuais cativantes. Um dia, enquanto trabalhava em uma proposta de projeto, um fenômeno inexplicável a transportou para dentro de uma apresentação digital. Ao sair, ela ganhou o poder de transformar slides em realidade.",
+        "poder": "Pode criar objetos, cenários ou ferramentas baseados em qualquer coisa que desenhe em um slide de apresentação.",
+        "inimigo": "Disruptor de Projeção, um vilão que distorce imagens e gráficos, confundindo e desorientando qualquer criação de PowerPointa." 
     }
 ]

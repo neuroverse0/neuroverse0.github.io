@@ -28,6 +28,10 @@ body {
     height: 20%;
 }
 
+#logo {
+    height: 95%;
+}
+
 .content {
     display: flex;
     width: 100%;
@@ -37,14 +41,24 @@ body {
 
 .btns {
     display: inline-block;
-    border: 2px solid #54A3C6;
-    border-radius: 5px;
-    box-sizing: border-box;
     background-color: #091832;
     color: #54A3C6;
-    padding: 15px;
 
     width: 20%;
+}
+
+button {
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #0f3269; /* Altere a cor conforme desejar */
+    color: #74cdf3;
+    transform: scale(1.01);
+}
+
+button:active {
+    transform: scale(0.95);
 }
 
 .description {
@@ -56,11 +70,22 @@ body {
     color: #54A3C6;
     text-align: left;
     padding: 40px;
+    font-family: 'Fira Code', monospace;
 
     width: 39%;
 }
 
-.image {
+.titulos {
+    font-weight: bold;
+    color: #CCEFFF;
+    line-height: 0.1;
+}
+
+#id, #origem, #poder, #inimigo {
+    line-height: 1.2;
+}
+
+.hero {
     display: inline-block;
     border: 2px solid #54A3C6;
     border-radius: 5px;
@@ -68,25 +93,49 @@ body {
     background-color: #091832;
     color: #54A3C6;
     text-align: center;
-    padding: 20px;
+    padding: 35px;
+    font-family: 'Quicksand', monospace;
 
     width: 40%;
+}
+
+.image {
+    object-fit: cover;
+    object-position: top;
+    border: 2px solid #54A3C6;
+    width: 100%;
+    height: 87%;
 }
 
 nav {
     display: flex;
     flex-direction: column;
-    gap: 10px
+    gap: 10px;
+    height: 100%;
 }
 
 nav button {
     background-color: #f0f0f0;
     border: none;
-    padding: 10px 20px;
-    margin: 5px;
     cursor: pointer;
+    height: 20%;
 
     flex-grow: 1;
+}
+
+.hero_btn {
+    border-radius: 5px;
+    border: 2px solid #54A3C6;
+    background-color: #091832;
+    color: #54A3C6;
+    font-family: 'Quicksand', monospace;
+    font-size: 27px;
+    text-transform: uppercase;
+}
+
+.hero_btn.active {
+    background-color: #1B74A8;
+    color: #CCEFFF;
 }
 
 main img {
