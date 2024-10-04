@@ -4,10 +4,16 @@ fetch('heroes.json')
     const buttons = document.querySelectorAll('.hero_btn');
 
     buttons.forEach((button, index) => {
-      if (index < data.length) {
-        button.textContent = data[index].nome;
-      } else {
-        console.error('Não há dados suficientes para todos os botões.');
-      }
+      button.textContent = data[index].name;
+
+      button.addEventListener('click', () => {
+        const heroData = data[index];
+        document.getElementById("id").textContent = heroData.id
+        document.getElementById("origem").textContent = heroData.origem
+        document.getElementById("poder").textContent = heroData.poder
+        document.getElementById("inimigo").textContent = heroData.inimigo
+        document.getElementById("image").textContent = heroData.imagem
+        document.getElementById("hero_name").textContent = heroData.nome
+      })
     });
   });

@@ -6,31 +6,39 @@
 </head>
 <body>
     <script src="script.js"></script>
+    <div class="header">
+        <header>
+            <h1>Neuroverse</h1>
+            <p>Database de Heróis Autistas</p>
+        </header>
+    </div>
+
+    <div class="content">
+        <div class="btns">
+            <nav>
+                <button id="btn1" class="hero_btn"></button>
+                <button id="btn2" class="hero_btn"></button>
+                <button id="btn3" class="hero_btn"></button>
+                <button id="btn4" class="hero_btn"></button>
+                <button id="btn5" class="hero_btn"></button>
+            </nav>
+        </div>
     
-    <header>
-        <h1>Neuroverse</h1>
-        <p>Database de Heróis Autistas</p>
-    </header>
-
-    <div class="div1">
-        <nav>
-            <button id="btn1" class="hero_btn"></button>
-            <button id="btn2" class="hero_btn"></button>
-            <button id="btn3" class="hero_btn"></button>
-            <button id="btn4" class="hero_btn"></button>
-            <button id="btn5" class="hero_btn"></button>
-        </nav>
-    </div>
-
-    <div class="div2">
-        <h2>Sinestesia</h2>
-        <img src="sinestesia.jpg" alt="Imagem de Sinestesia">
-    </div>
-
-    <div class="div3">
-        <p>ID: 001</p>
-        <p>Poder: Consegue manipular os sentidos de quem está à sua volta...</p>
-        <p>Marina tinha uma forma única de perceber o mundo. Ela não só ouvia sons, mas também os via como cores vibrantes...</p>
+        <div class="description">
+            <p>ID</p>
+            <p id="id"></p>
+            <p>Origem</p>
+            <p id="origem"></p>
+            <p>Poder</p>
+            <p id="poder"></p>
+            <p>Arqui-Inimigo</p>
+            <p id="inimigo"></p>
+        </div>
+    
+        <div class="image">
+            <img src="sinestesia.jpg" alt="Imagem de Sinestesia" id="image">
+            <h2 id="hero_name">Sinestesia</h2>
+        </div>
     </div>
 </body>
 </html>

@@ -1,25 +1,75 @@
+html {
+    height: 80%;
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 20px;
+    background-image: url('images/patternfundo.png');
+    background-size: cover;
+    height: 100%;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
 
-.div1, .div2, .div3 {
-    display: inline-block;
-    border: 2px solid black;
+.header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 2px solid #54A3C6;
+    border-radius: 5px;
     box-sizing: border-box;
+    background-color: #091832;
+    color: #54A3C6;
+    height: 20%;
 }
 
-.div1 {
+.content {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 80%;
+}
+
+.btns {
+    display: inline-block;
+    border: 2px solid #54A3C6;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #091832;
+    color: #54A3C6;
+    padding: 15px;
+
     width: 20%;
 }
 
-.div2 {
+.description {
+    display: inline-block;
+    border: 2px solid #54A3C6;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #091832;
+    color: #54A3C6;
+    text-align: left;
+    padding: 40px;
+
     width: 39%;
 }
 
-.div3 {
+.image {
+    display: inline-block;
+    border: 2px solid #54A3C6;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #091832;
+    color: #54A3C6;
+    text-align: center;
+    padding: 20px;
+
     width: 40%;
 }
 
