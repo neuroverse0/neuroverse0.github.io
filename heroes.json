@@ -38,5 +38,13 @@
         "origem": "Juliana era uma especialista em criar apresentações visuais cativantes. Um dia, enquanto trabalhava em uma proposta de projeto, um fenômeno inexplicável a transportou para dentro de uma apresentação digital. Ao sair, ela ganhou o poder de transformar slides em realidade.",
         "poder": "Pode criar objetos, cenários ou ferramentas baseados em qualquer coisa que desenhe em um slide de apresentação.",
         "inimigo": "Disruptor de Projeção, um vilão que distorce imagens e gráficos, confundindo e desorientando qualquer criação de PowerPointa." 
+    },
+    {
+        "nome": "teste",
+        "imagem": "images/teste.png",
+        "id": "6",
+        "origem": "teste origem",
+        "poder": "teste poder",
+        "inimigo": "teste inimigo"
     }
 ]
