@@ -17,11 +17,11 @@
     <div class="content">
         <div class="btns">
             <nav>
-                <button id="btn1" class="hero_btn"></button>
-                <button id="btn2" class="hero_btn"></button>
-                <button id="btn3" class="hero_btn"></button>
-                <button id="btn4" class="hero_btn"></button>
-                <button id="btn5" class="hero_btn"></button>
+                <button id="btn1" class="hero_btn" hero_id=""></button>
+                <button id="btn2" class="hero_btn" hero_id=""></button>
+                <button id="btn3" class="hero_btn" hero_id=""></button>
+                <button id="btn4" class="hero_btn" hero_id=""></button>
+                <button id="btn5" class="hero_btn" hero_id=""></button>
                 <div class="pageSelectors">
                     <button id="btnPrev">Anterior</button>
                     <div id="page">1</div>
@@ -42,7 +42,11 @@
         </div>
     
         <div class="hero">
-            <img id="image" class="image">
+            <div class="image">
+                <button id="prevImgBtn" onclick="prevImage()"><</button>
+                <img id="image" imageActive="" images="">
+                <button id="nextImgBtn" onclick="nextImage()">></button>
+            </div>
             <h2 id="hero_name"></h2>
         </div>
     </div>
