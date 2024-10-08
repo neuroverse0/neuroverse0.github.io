@@ -15,7 +15,21 @@ fetch('heroes.json')
 
     const buttons = document.querySelectorAll('.hero_btn');
 
+    const heroes = groups[0];
+    const heroData = heroes[0];
+
+    document.getElementById("id").textContent = heroData.id;
+    document.getElementById("origem").textContent = heroData.origem;
+    document.getElementById("poder").textContent = heroData.poder;
+    document.getElementById("inimigo").textContent = heroData.inimigo;
+    document.getElementById("image").src = heroData.imagem[0];
+    document.getElementById("image").dataset.imageActive = 0;
+    document.getElementById("image").dataset.images = JSON.stringify(heroData.imagem);
+    document.getElementById("hero_name").textContent = heroData.nome;
+
     updateButtons(currentPage);
+
+    document.getElementById("btn1").classList.add('active');
 
     document.getElementById('btnPrev').addEventListener('click', () => {
       if (currentPage > 1) {

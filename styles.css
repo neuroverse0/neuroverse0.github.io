@@ -46,15 +46,26 @@ body {
     width: 80%;
     flex-wrap: wrap;
     justify-content: center;
+
+    h3 {
+        color: #CCEFFF;
+        font-family: 'Fira Code', monospace;
+    }
+    p {
+        font-family: 'Fira Code', monospace;
+    }
+    ul {
+        font-family: 'Fira Code', monospace;
+    }
 }
 
 #leftDescription {
-    width: 30%;
+    width: 35%;
     text-align: left;
 }
 
 #rightDescription {
-    width: 30%;
+    width: 35%;
     text-align: left;
 }
 
@@ -71,15 +82,16 @@ hr {
     margin-bottom: 20px;
     border: 2px solid #54A3C6;
     border-radius: 5px;
-    background-color: #091832;
-    color: #54A3C6;
+    background-color: #1B74A8;
+    color: #CCEFFF;
     transition: all 0.2s ease-in-out;
     font-size: 50px;
     font-family: 'Fira code', monospace;
+    text-transform: uppercase;
 }
 
 #heroesBtn:hover {
-    background-color: #13233f;
+    background-color: #175980;
     color: #74cdf3;
     transform: scale(1.005);
     border: 4px solid #54A3C6;
@@ -106,10 +118,17 @@ hr {
 
         h3 {
             font-size: 18px;
+            color: #CCEFFF;
         }
 
         p {
             font-size: 15px;
         }
+    }
+    a {
+        color: #71D9FF;
+    }
+    a:hover {
+        color: #CCEFFF;
     }
 }
