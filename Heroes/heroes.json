@@ -41,7 +41,7 @@
     },
     {
         "nome": "Mestre Anexo",
-        "imagem": ["images/Mestre Anexo.jpg"],
+        "imagem": ["images/Mestre Anexo.jpg", "images/Mestre Anexo 2.jpg", "images/Mestre Anexo 3.jpg"],
         "id": "6",
         "origem": "João sempre teve uma mente extremamente organizada, uma característica ligada ao seu diagnóstico de autismo. Como assistente administrativo, sua habilidade em organizar documentos e manter tudo em ordem era notável. Um dia, ao abrir um e-mail misterioso, ele foi transportado para o ciberespaço e retornou com o poder de anexar objetos físicos ou digitais a si mesmo, transformando sua habilidade natural de organização em um superpoder",
         "poder": "Mestre Anexo pode anexar objetos ou pessoas a ele temporariamente, mantendo tudo organizado e acessível de forma mágica. Essa habilidade reflete sua incrível atenção aos detalhes e necessidade de controle sobre o ambiente, permitindo que ele carregue múltiplos itens ou transfira informações instantaneamente, sem perder o foco.",
@@ -49,7 +49,7 @@
     },
     {
         "nome": "Excelência",
-        "imagem": ["images/Excelencia.jpg"],
+        "imagem": ["images/Excelencia.jpg", "images/Excelencia 2.jpg", "images/Excelencia 3.jpg"],
         "id": "7",
         "origem": "Beatriz sempre foi excelente com números, algo que se destacava no seu trabalho como analista de dados. Ela usava sua precisão e foco para resolver problemas complexos com planilhas. Um dia, após longas horas ajustando fórmulas, um curto-circuito no computador lhe deu a habilidade de manipular números e cálculos no mundo real.",
         "poder": "Excelência pode manipular números e fórmulas matemáticas no mundo real, usando cálculos complexos para otimizar processos, prever eventos, e até criar campos de força baseados em equações.",
@@ -57,7 +57,7 @@
     },
     {
         "nome": "Mestre Migalha",
-        "imagem": ["images/Mestre Migalha.jpg"],
+        "imagem": ["images/Mestre Migalha.jpg", "images/Mestre Migalha 2.jpg", "images/Mestre Migalha 3.jpg"],
         "id": "8",
         "origem": "Júlia sempre demonstrou uma atenção meticulosa aos detalhes, o que lhe permitiu criar pratos complexos com pequenas quantidades de ingredientes. Ela apreciava o controle e a precisão no seu trabalho culinário. Durante uma competição extrema, uma descarga elétrica combinada com ervas raras lhe deu o poder de manipular pequenas partículas ao seu redor.",
         "poder": "Pode controlar migalhas, poeira e pequenas partículas de matéria, usando-as para criar barreiras ou realizar ataques minuciosos e precisos, refletindo sua habilidade de focar em detalhes.",
@@ -65,7 +65,7 @@
     },
     {
         "nome": "Modu-Laser",
-        "imagem": ["images/Modu-Laser.jpg"],
+        "imagem": ["images/Modu-Laser.jpg", "images/Modu-Laser 2.jpg", "images/Modu-Laser 3.jpg"],
         "id": "9",
         "origem": "Carla sempre teve um talento excepcional para a engenharia de precisão, com uma mente analítica que a ajudava a projetar dispositivos a laser de alta tecnologia. Ela valorizava a ordem e a lógica em seu trabalho. Durante um teste de uma nova lente de laser de múltiplas frequências, um acidente com o equipamento resultou em uma explosão, fundindo as ondas energéticas ao seu corpo e conferindo-lhe a habilidade de emitir e manipular raios de laser com diferentes efeitos.",
         "poder": "Pode emitir lasers que variam em frequência e potência, permitindo que ela corte, atordoe ou crie ilusões visuais. Essa capacidade reflete sua habilidade em manipular detalhes técnicos e complexos.",
