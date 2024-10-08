@@ -57,8 +57,8 @@ body {
 }
 
 .hero_btn:hover, #btnPrev:hover, #btnNext:hover {
-    background-color: #0f3269;
-    color: #74cdf3;
+    background-color: #71D9FF;
+    color: #091832;
     transform: scale(1.01);
 }
 
@@ -72,19 +72,20 @@ nav {
 .hero_btn {
     border-radius: 5px;
     border: 2px solid #54A3C6;
-    background-color: #091832;
-    color: #54A3C6;
+    background-color: #1B74A8;
+    color: #CCEFFF;
     font-family: 'Quicksand', monospace;
     font-size: 27px;
     text-transform: uppercase;
+    font-weight: bold;
     cursor: pointer;
     height: 18%;
     transition: all 0.2s ease-in-out;
 }
 
 .hero_btn.active {
-    background-color: #1B74A8;
-    color: #CCEFFF;
+    background-color: #0f3269;
+    color: #74cdf3;
 }
 
 .pageSelectors {
@@ -213,6 +214,11 @@ nav {
   #prevImgBtn:active, #nextImgBtn:active {
     background-color: rgba(255, 255, 255, 0.15);;
   }
+
+#hero_name {
+    text-transform: uppercase;
+    font-size: 30px;
+}
 
 main img {
     max-width: 100%;

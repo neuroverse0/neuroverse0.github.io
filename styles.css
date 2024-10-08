@@ -86,7 +86,8 @@ hr {
     color: #CCEFFF;
     transition: all 0.2s ease-in-out;
     font-size: 50px;
-    font-family: 'Fira code', monospace;
+    font-family: 'Quicksand', monospace;
+    font-weight: bold;
     text-transform: uppercase;
 }
 
