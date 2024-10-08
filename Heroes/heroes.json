@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Escudo Sensorial",
+        "imagem": ["images/Escudo Sensorial.jpg", "images/Escudo Sensorial 2.jpg", "images/Escudo Sensorial 3.jpg"],
+        "id": "1",
+        "origem": "Sofia sempre foi sensível ao toque, ao som e à luz, frequentemente sentindo o ambiente de forma muito mais intensa que os outros. Durante um momento de sobrecarga sensorial, ela desenvolveu a capacidade de criar um campo de proteção que bloqueia estímulos excessivos, protegendo-a e a quem estiver próximo.",
+        "poder": "Pode criar um escudo sensorial ao seu redor que bloqueia estímulos externos, como sons altos, luzes fortes ou toques indesejados. Esse campo também pode ser usado para proteger outras pessoas de ataques físicos ou sensoriais.",
+        "inimigo": "Tempestade Sensorial, um vilão que amplifica todos os estímulos sensoriais ao redor, sobrecarregando as pessoas com sons, luzes e sensações intensas." 
+    },
+    {
+        "nome": "Sequência Mestre",
+        "imagem": ["images/Sequência Mestre.jpg", "images/Sequência Mestre 2.jpg", "images/Sequência Mestre 3.jpg"],
+        "id": "2",
+        "origem": "Pedro sempre teve uma mente orientada para padrões, identificando sequências que os outros não percebiam. Quando criança, ele adorava quebra-cabeças e enigmas. Um dia, ao resolver um quebra-cabeça especialmente desafiador, ele ativou um poder latente em seu cérebro, permitindo-lhe prever e controlar padrões e sequências no mundo real.",
+        "poder": "Consegue ver e prever padrões em qualquer situação, desde movimentos físicos até dados e eventos futuros, permitindo-lhe manipular as probabilidades e se antecipar a ataques.",
+        "inimigo": "Caos, que cria situações de completa aleatoriedade, tornando impossível a previsão de padrões e eventos." 
+    },
+    {
+        "nome": "Sinestesia",
+        "imagem": ["images/Sinestesia.jpg", "images/Sinestesia 2.jpg", "images/Sinestesia 3.jpg"],
+        "id": "3",
+        "origem": "Marina tinha uma forma única de perceber o mundo. Ela não só ouvia sons, mas também os via como cores vibrantes, e sentia cheiros como se fossem texturas. Um acidente com um experimento neurológico amplificou essas percepções, permitindo-lhe manipular os sentidos dos outros através de sua própria experiência sinestésica.",
+        "poder": "Consegue manipular os sentidos de quem está à sua volta, criando ilusões sensoriais ou intensificando certas percepções. Ela pode “mostrar” sons ou fazer pessoas “verem” cheiros e sons.",
+        "inimigo": "O Neutro, um vilão que pode bloquear ou dessensibilizar completamente as percepções sensoriais, neutralizando a sinestesia de Marina." 
+    },
+    {
+        "nome": "Srta. Deadline",
+        "imagem": ["images/Srta. Deadline.jpg", "images/Srta. Deadline 2.jpg", "images/Srta. Deadline 3.jpg"],
+        "id": "4",
+        "origem": "Carol era uma gerente de projetos sempre sob pressão para cumprir prazos apertados. Depois de anos enfrentando o estresse do escritório, um acidente no elevador a transportou para uma dimensão temporal alternativa. Ao voltar, ela descobriu que agora podia manipular o tempo relacionado a prazos e cronogramas.",
+        "poder": "Pode acelerar ou desacelerar o tempo em torno de tarefas e projetos, permitindo que prazos sejam cumpridos de forma impossível.",
+        "inimigo": "Senhor Procrastinação, que pode criar campos de distração, tornando qualquer tarefa impossível de ser realizada no tempo esperado." 
+    },
+    {
+        "nome": "PowerPointa",
+        "imagem": ["images/PowerPointa.jpg", "images/PowerPointa 2.jpg", "images/PowerPointa 3.jpg"],
+        "id": "5",
+        "origem": "Juliana era uma especialista em criar apresentações visuais cativantes. Um dia, enquanto trabalhava em uma proposta de projeto, um fenômeno inexplicável a transportou para dentro de uma apresentação digital. Ao sair, ela ganhou o poder de transformar slides em realidade.",
+        "poder": "Pode criar objetos, cenários ou ferramentas baseados em qualquer coisa que desenhe em um slide de apresentação.",
+        "inimigo": "Disruptor de Projeção, um vilão que distorce imagens e gráficos, confundindo e desorientando qualquer criação de PowerPointa." 
+    },
+    {
+        "nome": "Mestre Anexo",
+        "imagem": ["images/Mestre Anexo.jpg"],
+        "id": "6",
+        "origem": "João sempre teve uma mente extremamente organizada, uma característica ligada ao seu diagnóstico de autismo. Como assistente administrativo, sua habilidade em organizar documentos e manter tudo em ordem era notável. Um dia, ao abrir um e-mail misterioso, ele foi transportado para o ciberespaço e retornou com o poder de anexar objetos físicos ou digitais a si mesmo, transformando sua habilidade natural de organização em um superpoder",
+        "poder": "Mestre Anexo pode anexar objetos ou pessoas a ele temporariamente, mantendo tudo organizado e acessível de forma mágica. Essa habilidade reflete sua incrível atenção aos detalhes e necessidade de controle sobre o ambiente, permitindo que ele carregue múltiplos itens ou transfira informações instantaneamente, sem perder o foco.",
+        "inimigo": "Sr. Arquivo Corrompido, que cria caos e confusão através de documentos infectados ou inutilizáveis, desorganizando o ambiente e desafiando o Mestre Anexo a lidar com mudanças inesperadas e situações fora de sua zona de conforto."
+    },
+    {
+        "nome": "Excelência",
+        "imagem": ["images/Excelencia.jpg"],
+        "id": "7",
+        "origem": "Beatriz sempre foi excelente com números, algo que se destacava no seu trabalho como analista de dados. Ela usava sua precisão e foco para resolver problemas complexos com planilhas. Um dia, após longas horas ajustando fórmulas, um curto-circuito no computador lhe deu a habilidade de manipular números e cálculos no mundo real.",
+        "poder": "Excelência pode manipular números e fórmulas matemáticas no mundo real, usando cálculos complexos para otimizar processos, prever eventos, e até criar campos de força baseados em equações.",
+        "inimigo": "Sr. Erro Circular, que cria caos ao usar equações defeituosas e bugs para sabotar os cálculos precisos de Excelência, forçando-a a encontrar soluções rápidas em meio ao caos."
+    },
+    {
+        "nome": "Mestre Migalha",
+        "imagem": ["images/Mestre Migalha.jpg"],
+        "id": "8",
+        "origem": "Júlia sempre demonstrou uma atenção meticulosa aos detalhes, o que lhe permitiu criar pratos complexos com pequenas quantidades de ingredientes. Ela apreciava o controle e a precisão no seu trabalho culinário. Durante uma competição extrema, uma descarga elétrica combinada com ervas raras lhe deu o poder de manipular pequenas partículas ao seu redor.",
+        "poder": "Pode controlar migalhas, poeira e pequenas partículas de matéria, usando-as para criar barreiras ou realizar ataques minuciosos e precisos, refletindo sua habilidade de focar em detalhes.",
+        "inimigo": "Senhor Vácuo, que gera sucção extrema, eliminando partículas do ambiente, desafiando o controle preciso de Mestre Migalha sobre seu poder"
+    },
+    {
+        "nome": "Modu-Laser",
+        "imagem": ["images/Modu-Laser.jpg"],
+        "id": "9",
+        "origem": "Carla sempre teve um talento excepcional para a engenharia de precisão, com uma mente analítica que a ajudava a projetar dispositivos a laser de alta tecnologia. Ela valorizava a ordem e a lógica em seu trabalho. Durante um teste de uma nova lente de laser de múltiplas frequências, um acidente com o equipamento resultou em uma explosão, fundindo as ondas energéticas ao seu corpo e conferindo-lhe a habilidade de emitir e manipular raios de laser com diferentes efeitos.",
+        "poder": "Pode emitir lasers que variam em frequência e potência, permitindo que ela corte, atordoe ou crie ilusões visuais. Essa capacidade reflete sua habilidade em manipular detalhes técnicos e complexos.",
+        "inimigo": "Espelho Negro, que pode refletir e redirecionar qualquer laser disparado contra ele, desafiando a precisão e o controle de Carla sobre seus poderes."
+    },
+    {
+        "nome": "Incursor",
+        "imagem": ["images/Incursor.jpg", "images/Incursor 2.jpg", "images/Incursor 3.jpg"],
+        "id": "10",
+        "origem": "Após perceber as dificuldades que seu filho autista enfrentava, decidiu lutar por um mundo mais inclusivo. Em uma noite de reflexão profunda, ele foi atingido por um raio de luz que simbolizava a aceitação e a diversidade. Esse momento o transformou em Inclusor, um super-herói dedicado a promover a inclusão e a dignidade para todos, independentemente de suas diferenças.",
+        "poder": "Ele pode criar ferramentas e dispositivos que ajudam a integrar pessoas com autismo em diferentes ambientes, como trabalho e ambiente social",
+        "inimigo": "Novas empresas parceiras para expandir a atuação para diferentes regiões e setores, sem comprometer a qualidade dos serviços e o bem-estar dos colaboradores."
+    }
+]

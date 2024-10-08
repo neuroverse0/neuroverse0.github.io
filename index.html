@@ -9,46 +9,58 @@
     <link rel="stylesheet" href="styles.css"> 
 </head>
 <body>
-    <script src="script.js"></script>
     <div class="header">
-        <img id="logo" src="images/logo.png">
+        <img id="logo" src="heroes/images/logo.png">
+        <div id="description">
+            <div id="leftDescription">
+                <h3>Missão</h3>
+                <p>Inspirar e educar, mostrando a força da diversidade através de heróis autistas, promovendo representatividade e inclusão.</p>
+
+                <h3>Visão</h3>
+                <p>Ser referência em conteúdos que celebram a neurodiversidade e incentivam narrativas inclusivas e inspiradoras.</p>
+            </div>
+
+            <hr>
+
+            <div id="rightDescription">
+                <h3>Valores</h3>
+
+                <ul style="list-style-type:square;">
+                    <li><b>Representatividade:</b> Dar voz à diversidade nos heróis.</li>
+                    <li><b>Inclusão:</b> Promover empatia e compreensão.</li>
+                    <li><b>Educação:</b> Informar e desmistificar o autismo.</li>
+                    <li><b>Inspiração:</b> Mostrar histórias de superação.</li>
+                    <li><b>Respeito:</b> Abordar temas com sensibilidade e autenticidade.</li>
+                </ul>
+            </div>
+        </div>
     </div>
 
-    <div class="content">
-        <div class="btns">
-            <nav>
-                <button id="btn1" class="hero_btn" hero_id=""></button>
-                <button id="btn2" class="hero_btn" hero_id=""></button>
-                <button id="btn3" class="hero_btn" hero_id=""></button>
-                <button id="btn4" class="hero_btn" hero_id=""></button>
-                <button id="btn5" class="hero_btn" hero_id=""></button>
-                <div class="pageSelectors">
-                    <button id="btnPrev">Anterior</button>
-                    <div id="page">1</div>
-                    <button id="btnNext">Próxima</button>
-                </div>
-            </nav>
+    <button id="heroesBtn" onclick="redirectTo('Heroes')">Conheça nossos heróis</button>
+
+    <div class="footer">
+        <div>
+            <h3>Endereço</h3>
+            <p>Alameda Viver Diferente, 6A02,</p>
+            <p>Jardim da Inclusão,</p>
+            <p>Rio de Janeiro – RJ</p>
         </div>
-    
-        <div class="description">
-            <p class="titulos">ID</p>
-            <p id="id"></p>
-            <p class="titulos">Origem</p>
-            <p id="origem"></p>
-            <p class="titulos">Poder</p>
-            <p id="poder"></p>
-            <p class="titulos">Arqui-Inimigo</p>
-            <p id="inimigo"></p>
+        <div>
+            <h3>Telefone</h3>
+            <p>(21) 90110-0101</p>
+            <h3>E-mail</h3>
+            <p><a href="mailto:contato@neuroverse.com">contato@neuroverse.com</a></p>
         </div>
-    
-        <div class="hero">
-            <div class="image">
-                <button id="prevImgBtn" onclick="prevImage()"><</button>
-                <img id="image" imageActive="" images="">
-                <button id="nextImgBtn" onclick="nextImage()">></button>
-            </div>
-            <h2 id="hero_name"></h2>
+        <div>
+            <h3>Redes Sociais</h3>
+            <p><a href="https://www.facebook.com/">Facebook</a></p>
+            <p><a href="https://bsky.app/">Bluesky</a></p>
+            <p><a href="https://www.instagram.com/">Instagram</a></p>
         </div>
     </div>
+
+    <p style="color: #CCEFFF; text-align: center; text-transform: uppercase;">Este é um site fictício criado para fins acadêmicos</p>
+
+    <script src="script.js"></script>
 </body>
 </html>
